@@ -1,7 +1,16 @@
 你好！这里是SacrEllfarch，一个在学各种杂七杂八东西的家伙
 <br>
-唔，顺带，这个是我的个人博客，虽然目前仍未完善）<br>
+唔，顺带，这个是我的个人博客，虽然目前仍未完善(
+<br>
 https://sacrellfarch.github.io/
+<br>
+
+![Elaina](./img/elaina.jpg)
+<div align="center">
+  <img src="./img/elaina.jpg" alt="Elaina" width="90%">
+</div>
+
+<br>
 <div align="center">
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/SacrEllfarch/SacrEllfarch/output/github-contribution-grid-snake.svg" width="90%">
 </div>
