@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/elaina.jpg" alt="Elaina" width="95%">
+  <img src="./img/Elaina.jpg" alt="Elaina" width="95%">
 </div>
 <br>
 你好！这里是SacrEllfarch，一个在学各种杂七杂八东西的家伙
